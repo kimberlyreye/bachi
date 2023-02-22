@@ -1,0 +1,14 @@
+h1{
+	color: red;
+	text-align: center;
+	font size: 14pt;
+	font-family: Verdana;
+}
+
+h2{
+	color: blue;
+	text-align: center;
+	font-size: 16pt;
+	font-family: Verdana;
+}
+body { background-image: url("/bachi/imagenes/fondo.jpg") }
